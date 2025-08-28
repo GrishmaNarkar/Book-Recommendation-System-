@@ -11,6 +11,7 @@ BOOK RECOMMENDATION SYSTEM USING MACHINE LEARNING AND FLASK
 4.Go to this directory-> Cd Book-Recommendation-System/Website
 
 Your Terminal must look something like:
+
 (YourEnvName)C:\Users\YourName\Book-Recommendation-System/Website>
 
 5.RUN THIS: Python app.py
