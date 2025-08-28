@@ -21,15 +21,4 @@ Web app will be running on port=5000
 
 # Project Structure
 
-Book-Recommender-System/
-├── Datasets/             # source of data
-├── Model/                # Jupyter Notebook for training & model artifacts
-│   └── book-recommend.ipynb
-├── Website/              # Flask web application
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── collab_model.pkl
-│   ├── popularity_model.pkl
-│   ├── templates/        # Jinja2 HTML templates
-│   └── static/           # CSS & JS assets
-└── README.md             # setup instructions
+<img width="686" height="329" alt="Screenshot 2025-08-28 172834" src="https://github.com/user-attachments/assets/c35d29a1-860b-4429-b961-6a8aedf0f2c5" />
