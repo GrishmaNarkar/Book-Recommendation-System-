@@ -2,7 +2,8 @@
 BOOK RECOMMENDATION SYSTEM USING MACHINE LEARNING AND FLASK
 
 # HOW TO RUN:
-1.Clone the repository: https://github.com/GrishmaNarkar/Book-Recommendation-System-.git
+1.Clone the repository:
+->>> https://github.com/GrishmaNarkar/Book-Recommendation-System-.git
 
 2.Create environment 
 
