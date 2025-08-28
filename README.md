@@ -17,3 +17,19 @@ Your Terminal must look something like:
 5.RUN THIS: Python app.py
 
 Web app will be running on port=5000
+
+
+# Project Structure
+
+Book-Recommender-System/
+├── Datasets/             # source of data
+├── Model/                # Jupyter Notebook for training & model artifacts
+│   └── book-recommend.ipynb
+├── Website/              # Flask web application
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── collab_model.pkl
+│   ├── popularity_model.pkl
+│   ├── templates/        # Jinja2 HTML templates
+│   └── static/           # CSS & JS assets
+└── README.md             # setup instructions
