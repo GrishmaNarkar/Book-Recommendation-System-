@@ -8,6 +8,11 @@ BOOK RECOMMENDATION SYSTEM USING MACHINE LEARNING AND FLASK
 
 3.Activate the enviroment 
 
-4.Cd Book-Recommendation-System-
+4.Go to this directory-> Cd Book-Recommendation-System/Website
 
-5.Python app.py
+Your Terminal must look something like:
+(YourEnvName)C:\Users\YourName\Book-Recommendation-System/Website>
+
+5.RUN THIS: Python app.py
+
+Web app will be running on port=5000
