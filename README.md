@@ -8,6 +8,6 @@ BOOK RECOMMENDATION SYSTEM USING MACHINE LEARNING AND FLASK
 
 3.Activate the enviroment 
 
-4.Cd BOOK RECOMMENDATION SYSTEM PROJECT
+4.Cd Book-Recommendation-System-
 
 5.Python app.py
