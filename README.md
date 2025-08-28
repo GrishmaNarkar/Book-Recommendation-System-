@@ -18,6 +18,8 @@ Your Terminal must look something like:
 
 Web app will be running on port=5000
 
+Open your browser and navigate to http://localhost:5000 to interact with the recommender.
+
 
 # Project Structure
 
